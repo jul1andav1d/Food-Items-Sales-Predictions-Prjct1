@@ -30,7 +30,7 @@ AVERAGE SALES PER ITEM TYPE:
 
 DECISION ON MODEL FOR PREDICTING SALES BASED ON ITEM CHARACTERISTICS
 
-I analyzed a couple of ways to predict the sales of Items based on their characteristics. And while both were a great way to help us understand where we stand, the conclusion is to use the linear regression model, as it gave better results when evaluating its performance
+I analyzed a couple of ways to predict the sales of Items based on their characteristics. And while both were a great way to help us understand where we stand, the conclusion is to use the linear regression model, as it gave better results when evaluating its performance.
 
 CONCLUSIONS
 
