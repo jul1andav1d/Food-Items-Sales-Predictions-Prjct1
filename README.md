@@ -8,7 +8,8 @@ of products and outlets that play crucial roles in predicting sales.
 
 I will also present visualizations for a better understanding of the outcomes.
 
-So, lets jump right in! 
+So, lets jump right in!.
+
 AVERAGE VISIBILITY VISUALIZATION:
 
 ![AVERAGE VISIBILITY](https://user-images.githubusercontent.com/92410034/150920423-ddc78f91-0416-462c-9b0d-6c1a5c7d0ffa.png)
