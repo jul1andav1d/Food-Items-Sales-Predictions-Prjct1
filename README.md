@@ -1,4 +1,6 @@
-# Food-items-sales-predictions
+# Food Items - Sales Predictions.
+
+
 Hello Everyone! My name is Julian Arroyave at the moment of this project realization, 
 I am a student at the Coding Dojo Data Science and Analytics bootcamp.
 
